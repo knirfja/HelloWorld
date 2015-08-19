@@ -1,7 +1,8 @@
-% af_AddpathScript
+% af_AddpathScript2
 %
 %
 %% Golding Lab Comp
+% Random changes
 % Add generic scripts
 addpath('C:\Users\frink\OneDrive\OneNoteMatlab')
 
