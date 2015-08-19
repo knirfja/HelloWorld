@@ -3,6 +3,7 @@
 %
 %% Golding Lab Comp
 % Random changes
+% what if I add a line?
 % Add generic scripts
 addpath('C:\Users\frink\OneDrive\OneNoteMatlab')
 
@@ -37,8 +38,8 @@ addpath(genpath('F:\OneDrive\OneNoteMatlab\Golding\SchnitzCell\Schnitzcells20150
 % addpath('F:\OneDrive\OneNoteMatlab\Golding\Lambda')
 
 % Add 20150216_parsinf
-addpath(genpath('F:\OneDrive\OneNoteMatlab\Golding\Lambda\20150216_parsinf'))
+% addpath(genpath('F:\OneDrive\OneNoteMatlab\Golding\Lambda\20150216_parsinf'))
 
 % Add 20150311mgparsab
-addpath(genpath('F:\OneDrive\OneNoteMatlab\Golding\Lambda\20150311mgparsab'))
+% addpath(genpath('F:\OneDrive\OneNoteMatlab\Golding\Lambda\20150311mgparsab'))
 
